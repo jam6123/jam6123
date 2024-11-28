@@ -5,7 +5,7 @@
 
 <ul>
   <li>Linux</li>
-  <li>MERN stack (<i>Mongodb</i>, <i>Expressjs</i>, <i>Reactjs</i>, <i>Nodejs</i>)</li>
+  <li>MERN (<i>Mongodb</i>, <i>Expressjs</i>, <i>Reactjs</i>, <i>Nodejs</i>)</li>
   <li>Git </li>
   <li>Typescript </li>
   <li>Tailwindcss </li>
