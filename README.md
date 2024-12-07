@@ -10,3 +10,10 @@
   <li>Typescript </li>
   <li>Tailwindcss </li>
 </ul>
+
+![html](https://skillicons.dev/icons?i=linux) &nbsp;
+![html](https://skillicons.dev/icons?i=html) &nbsp;
+![html](https://skillicons.dev/icons?i=css) &nbsp;
+![html](https://skillicons.dev/icons?i=js) &nbsp;
+![html](https://skillicons.dev/icons?i=ts) &nbsp;
+![html](https://skillicons.dev/icons?i=tailwind) &nbsp;
