@@ -12,15 +12,18 @@
 </ul>
 <br >
 
-![html](https://skillicons.dev/icons?i=linux) &nbsp;
+
 ![html](https://skillicons.dev/icons?i=html) &nbsp;
 ![html](https://skillicons.dev/icons?i=css) &nbsp;
-![html](https://skillicons.dev/icons?i=js) &nbsp;
-![html](https://skillicons.dev/icons?i=ts) &nbsp;
+![html](https://skillicons.dev/icons?i=js) &nbsp; 
 ![html](https://skillicons.dev/icons?i=tailwind) &nbsp;
+![html](https://skillicons.dev/icons?i=ts) &nbsp;
+![html](https://skillicons.dev/icons?i=react) &nbsp; <br />
+
 ![html](https://skillicons.dev/icons?i=mongodb) &nbsp;
 ![html](https://skillicons.dev/icons?i=express) &nbsp;
-![html](https://skillicons.dev/icons?i=react) &nbsp;
-![html](https://skillicons.dev/icons?i=nodejs) &nbsp;
+![html](https://skillicons.dev/icons?i=nodejs) &nbsp; <br />
+
+![html](https://skillicons.dev/icons?i=linux) &nbsp; 
 ![html](https://skillicons.dev/icons?i=git) &nbsp;
 ![html](https://skillicons.dev/icons?i=vscode) &nbsp;
