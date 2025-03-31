@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=jam&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!-- [![](https://visitcount.itsvg.in/api?id=jam&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in) -->
 <div align="center" id="toc"><ul style="list-style: none"><summary><h1>Keep It Simple, Stupid (<i>KISS</i>)</h1></summary></ul></div>
 <br />
 <h2>Skills</h2>
