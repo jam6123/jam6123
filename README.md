@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=jam&label=Profile%20Views&color=2&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
-
-<h1>Skills</h1>
+<div align="center" id="toc"><ul style="list-style: none"><summary><h1>Keep It Simple, Stupid (<i>KISS</i>)</h1></summary></ul></div>
+<br />
+<h2>Skills</h2>
 
 <ul>
   <li>Linux</li>
